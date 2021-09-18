@@ -29,4 +29,5 @@
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://gabrielreistech.medium.com/)
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
