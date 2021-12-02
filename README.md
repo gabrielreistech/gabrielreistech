@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reis</h1>
-<h3 align="center">A 14 years old developer from Brazil discovering the art of coding.</h3>
+<h3 align="center">A 15 years old developer from Brazil discovering the art of coding.</h3>
 <p align="center">
-<img src="https://media.discordapp.net/attachments/888785287667396688/888785337638342716/stevejobs.png?width=648&height=648">
+<img src="https://media.discordapp.net/attachments/911302100187750461/915987197159698462/GIFBANNER.gif">
 </p>
 
 <h1> Skills </h1>
