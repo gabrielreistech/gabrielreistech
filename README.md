@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reis</h1>
 <p align="center">
-<img src="https://media.discordapp.net/attachments/911302100187750461/915987197159698462/GIFBANNER.gif">
 </p>
 
 <h1> Skills </h1>
