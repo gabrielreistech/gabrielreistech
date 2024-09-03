@@ -20,6 +20,8 @@
 </div><br/>
 
 ![Cobrinha](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?u=gabrielreistech)
+![snake gif](https://github.com/gabrielreistech/gabrielreistech/blob/output/github-contribution-grid-snake.svg)
+
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
