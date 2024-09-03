@@ -1,12 +1,12 @@
-## Olá! Eu sou o Gabriel Reis 🖐️
+## Olá! Eu sou Gabriel Reis 🖐️
 
-Estudante de Ciência da Computação, pela UNICID. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Atualmente, sou estudante de Ciência da Computação na UNICID e estou profundamente envolvido em explorar as fronteiras da tecnologia. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e criar soluções inovadoras. Minha paixão por aprender e aplicar novas habilidades me impulsiona a buscar projetos que possam fazer a diferença.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielreistech/)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielreistech&show_icons=true&rank_icon=github&theme=radical" alt="Gabriel Reis GitHub stats" style="display:inline-block; width: 400px; height: 200px; object-fit: cover; margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielreistech&layout=compact&theme=radical" alt="Top Langs" style="display:inline-block; width: 400px; height: 200px; object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielreistech&show_icons=true&rank_icon=github&theme=radical" alt="Gabriel Reis GitHub stats" style="display:inline-block; width: 45%; height: auto; object-fit: cover; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielreistech&layout=compact&theme=radical" alt="Top Langs" style="display:inline-block; width: 45%; height: auto; object-fit: cover;"/>
 </p>
 
 
