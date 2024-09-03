@@ -19,11 +19,15 @@
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div><br/>
 
-![Cobrinha](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?u=gabrielreistech)
-![snake gif](https://github.com/gabrielreistech/gabrielreistech/blob/output/github-contribution-grid-snake.svg)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielreistech/gabrielreistech/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielreistech/gabrielreistech/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielreistech/gabrielreistech/output/github-contribution-grid-snake.svg">
+</picture>
 
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia e educação, com o desejo de transformar vidas por meio da programação.
 
 ### Últimos certificados:
 <a href="https://www.linkedin.com/in/gabrielreistech/overlay/1722992027231/single-media-viewer/?profileId=ACoAAExFjPcBcItV7CW3j2Oyg08VZS_szqIWhmI" target="_blank" rel="noopener noreferrer">•Desenvolvimento Java com IA - DIO</a> <br>
