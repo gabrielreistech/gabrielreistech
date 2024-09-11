@@ -5,9 +5,10 @@ Atualmente, sou estudante de Ciência da Computação na UNICID e estou profunda
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielreistech/)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielreistech&show_icons=true&rank_icon=github&theme=radical" alt="Gabriel Reis GitHub stats" style="display:inline-block; width: 45%; height: auto; object-fit: cover; margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielreistech&layout=compact&theme=radical" alt="Top Langs" style="display:inline-block; width: 45%; height: auto; object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielreistech&show_icons=true&rank_icon=github&theme=radical" alt="Gabriel Reis GitHub stats" style="display:inline-block; width: 500px; height: auto; object-fit: cover; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielreistech&layout=compact&theme=radical" alt="Top Langs" style="display:inline-block; width: 500px; height: auto; object-fit: cover;"/>
 </p>
+
 
 
 ## Tecnologias que estudo no meu dia:
