@@ -1,4 +1,4 @@
-## Olá! Eu sou Gabriel Reis 🖐️
+## Olá! Me chamo Gabriel Reis 🖐️
 
 Atualmente, sou estudante de Ciência da Computação na UNICID e estou profundamente envolvido em explorar as fronteiras da tecnologia. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e criar soluções inovadoras. Minha paixão por aprender e aplicar novas habilidades me impulsiona a buscar projetos que possam fazer a diferença.
 
