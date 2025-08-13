@@ -1,6 +1,6 @@
 ## Olá! Me chamo Gabriel Reis 🖐️
 
-Atualmente, sou estudante de Ciência da Computação na UNICID e estou profundamente envolvido em explorar as fronteiras da tecnologia. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e criar soluções inovadoras. Minha paixão por aprender e aplicar novas habilidades me impulsiona a buscar projetos que possam fazer a diferença.
+Sou estudante de Ciência da Computação na UNICID, movido por uma busca estratégica por conhecimento e inovação. Cada desafio é uma oportunidade de aprender, otimizar e superar limites, transformando ideias em soluções que geram impacto real. Minha trajetória é guiada pela curiosidade, disciplina e visão: não apenas dominar tecnologias, mas usá-las para criar vantagem e resultados concretos. Estou sempre pronto para projetos que exigem inteligência, adaptação e execução eficiente.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielreistech/)
 
